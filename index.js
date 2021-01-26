@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 /*const chalk = require ('chalk');*/
 const { getCode } = require ('country-list');
 const  axios = require ('axios')
